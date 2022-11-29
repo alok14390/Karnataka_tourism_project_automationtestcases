@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: karnataka_tourism.testcase_1
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 57.608 s - in karnataka_tourism.testcase_1

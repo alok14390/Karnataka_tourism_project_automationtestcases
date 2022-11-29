@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T20:00:17Z" name="Surefire suite" finished-at="2022-11-29T20:01:14Z" duration-ms="56785">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T20:00:17Z" name="Surefire test" finished-at="2022-11-29T20:01:14Z" duration-ms="56785">
+      <class name="karnataka_tourism.testcase_1">
+        <test-method is-config="true" signature="bt()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:30:17Z" name="bt" finished-at="2022-11-30T01:30:43Z" duration-ms="25500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="test()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:30:43Z" name="test" finished-at="2022-11-30T01:30:51Z" duration-ms="7892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test1()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:30:51Z" name="test1" finished-at="2022-11-30T01:30:57Z" duration-ms="6726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:30:57Z" name="test2" finished-at="2022-11-30T01:31:02Z" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:31:02Z" name="test3" finished-at="2022-11-30T01:31:08Z" duration-ms="6333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:31:08Z" name="test4" finished-at="2022-11-30T01:31:12Z" duration-ms="3990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="at()[pri:0, instance:karnataka_tourism.testcase_1@5ea434c8]" started-at="2022-11-30T01:31:12Z" name="at" finished-at="2022-11-30T01:31:14Z" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- karnataka_tourism.testcase_1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
